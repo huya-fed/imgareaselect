@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/odyniec/imgareaselect",
+    "version": "v1.0.0",
+    "name": "imgareaselect",
+    "main": "imgareaselect.js"
+}
